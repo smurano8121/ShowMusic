@@ -1,0 +1,70 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4590
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.322 seconds
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.547328 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 10f0 -> priority: 1 
+  Thread -> id: 7428 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.293363 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 369.
+Total: 8.403453 ms (FindLiveObjects: 0.047575 ms CreateObjectMapping: 0.047952 ms MarkObjects: 0.451209 ms  DeleteObjects: 7.855582 ms)
+
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4590
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\smura\Develop\ShowMusic\FinMUSICGAME\DevMUSICGAME_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.259069 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 771c -> priority: 1 
+  Thread -> id: 4f54 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.274369 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 369.
+Total: 8.000573 ms (FindLiveObjects: 0.049840 ms CreateObjectMapping: 0.045309 ms MarkObjects: 0.419115 ms  DeleteObjects: 7.485552 ms)
+
